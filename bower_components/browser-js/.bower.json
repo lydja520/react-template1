@@ -1,0 +1,14 @@
+{
+  "name": "browser-js",
+  "homepage": "https://github.com/yc880770/browser",
+  "_release": "1023113b59",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "1023113b598320bfe93762d8b790eb132a751890"
+  },
+  "_source": "https://github.com/yc880770/browser.git",
+  "_target": "*",
+  "_originalSource": "browser-js",
+  "_direct": true
+}
